@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: MicroservicesDemo
   boot:
     admin:
       client:
